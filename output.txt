@@ -1,0 +1,9 @@
+Script started on Wed Apr 19 16:56:20 2023
+]0;annanya@r1n00.darwin:~/CISC372_picProject[?1034h[annanya@r1n00 CISC372_picProject]$ logoutworkgroup -g ea-cisc372logout[Kgcc image_pthreads.c -o image -lthread[2Popenmp.c -o image -fopenmp-g image_pthreads.c -o image -lm -lpthread[2Popenmp.c -o image -lm -lpthread[annanya@r1n00 CISC372_picProject]$ ls[Kcd CISC372_picProjectls[Kgit clone https://github.com/annanya2/CISC372_picProject.git[annanya@r1n00 CISC372_picProject]$ [4Pclone https://github.com/annanya2/CISC372_picProject.git[annanya@r1n00 CISC372_picProject]$ vpkg_require gcc[Kls[K  sur  run image_ph threads pic1.jpg edge
+Took 0 seconds
+]0;annanya@r1n00.darwin:~/CISC372_picProject[annanya@r1n00 CISC372_picProject]$ srun image_openmp pic1.jpg edge
+Took 0 seconds
+]0;annanya@r1n00.darwin:~/CISC372_picProject[annanya@r1n00 CISC372_picProject]$ exit
+exit
+
+Script done on Wed Apr 19 16:57:21 2023
